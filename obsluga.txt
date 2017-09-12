@@ -23,3 +23,8 @@ wyswietlenie zmian "commit"
 ---
 git clone <url>.git
 klonowanie repozytorium z GitHub
+---
+git checkout -b nazwa_glezi
+galaz
+---
+git push origin nazwa_galezi(lub bez nazwy master)
