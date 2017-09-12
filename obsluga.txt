@@ -28,3 +28,9 @@ git checkout -b nazwa_glezi
 galaz
 ---
 git push origin nazwa_galezi(lub bez nazwy master)
+---
+git push
+przesłanie danych na serwis GitHub
+---
+clear
+czyszczenie okna
