@@ -1,4 +1,4 @@
-cd /d/nazwa_folderu
+﻿cd /d/nazwa_folderu
 przejscie na dysk d i zalozenie folderu
 ---
 git init
@@ -34,3 +34,6 @@ przesłanie danych na serwis GitHub
 ---
 clear
 czyszczenie okna
+---
+git pull
+ściąganie zmian z serwisu
