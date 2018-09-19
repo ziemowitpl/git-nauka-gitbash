@@ -1,0 +1,12 @@
+Tworzymy Projekt na GitHub
+Tworzymy nowy folder na HDD
+W folderze: git init
+Nastêpnie: git pull https://github.com/ziemowitpl/Projekt
+Wgrywamy pliki/tworzymy do/w folderze
+git status
+git add .
+git status
+git commit -m "Siakis opis"
+git remote add siakas_nazwa https://github.com/ziemowitpl/BS4.0.0-Natalia
+git push --set-upstream siakas_nazwa  master
+
